@@ -1,0 +1,36 @@
+{
+  "courseInfo": {
+    "title": "PEP小学英语五年级上册",
+    "grade": "五年级",
+    "semester": "上册",
+    "publisher": "人民教育出版社"
+  },
+  "units": [
+    {
+      "unitNumber": 1,
+      "unitTitle": "What's he like?",
+      "theme": "我的老师",
+      "vocabulary": [
+        {"word": "old", "phonetic": "/əʊld/", "meaning": "年老的", "example": "My grandfather is old."},
+        {"word": "young", "phonetic": "/jʌŋ/", "meaning": "年轻的", "example": "Miss White is young."},
+        {"word": "funny", "phonetic": "/'fʌni/", "meaning": "滑稽的", "example": "Our PE teacher is funny."},
+        {"word": "kind", "phonetic": "/kaɪnd/", "meaning": "和蔼的", "example": "She is a kind woman."},
+        {"word": "strict", "phonetic": "/strɪkt/", "meaning": "严格的", "example": "Our math teacher is strict."},
+        {"word": "polite", "phonetic": "/pə'laɪt/", "meaning": "有礼貌的", "example": "We should be polite."},
+        {"word": "hard-working", "phonetic": "/hɑːd 'wɜːkɪŋ/", "meaning": "勤奋的", "example": "He is hard-working."},
+        {"word": "helpful", "phonetic": "/'helpfl/", "meaning": "有帮助的", "example": "She is always helpful."},
+        {"word": "clever", "phonetic": "/'klevə(r)/", "meaning": "聪明的", "example": "Tom is clever."},
+        {"word": "shy", "phonetic": "/ʃaɪ/", "meaning": "害羞的", "example": "The girl is shy."}
+      ],
+      "grammar": [
+        {
+          "title": "询问人物特征",
+          "pattern": "What's + 主语 + like?",
+          "examples": [
+            "What's your English teacher like? - She's kind and funny."
+          ]
+        }
+      ]
+    }
+  ]
+}
